@@ -3,11 +3,7 @@
 }
 
 @media screen and (max-width:768px){
-  section div.three-layout>div:nth-child(1){width:50%;}
-  section div.three-layout>div:nth-child(2){width:50%;}
-  section div.three-layout>div:nth-child(3){width:100%;}
-
-  section div.four-layout>div{width:50%;}
+  /* 수정했습니다. */
 }
 
 @media screen and (max-width:600px){
